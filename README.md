@@ -9,8 +9,8 @@ A repository for storing Big data learning path.
 - Coursera
 - Youtube
 - Udemy
-## Tools
+## Tools:
 - Python 3
 - PySpark
-## License : 
+## License: 
 MIT License
