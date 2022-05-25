@@ -3,7 +3,7 @@
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 
 ## About: 
-A repository for storing Big data learning path.
+A repository to store my Big data learning path.
 
 ## Resources:
 - Coursera
