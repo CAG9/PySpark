@@ -1,16 +1,16 @@
 # Big Data using PySpark
-## Author: 
+## Author
 - Cesar Arcos-Gonzalez: cesar99ag@gmail.com
 
-## About: 
+## About
 A repository to store my Big data learning path.
 
-## Resources:
+## Resources
 - Coursera
 - Youtube
 - Udemy
-## Tools:
+## Tools
 - Python 3
 - PySpark
-## License: 
+## License
 MIT License
